@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekyuv" alt="geekyuv" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/empire_ys" target="blank"><img src="https://img.shields.io/twitter/follow/empire_ys?logo=twitter&style=for-the-badge" alt="empire_ys" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yuvraj26855685" target="blank"><img src="https://img.shields.io/twitter/follow/yuvraj26855685?logo=twitter&style=for-the-badge" alt="yuvraj26855685" /></a> </p>
 
 - 🔭 I’m currently working on **Ruby on rails,python**
 
@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/empire_ys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="empire_ys" height="30" width="40" /></a>
+<a href="https://twitter.com/yuvraj26855685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvraj26855685" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuvraj-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-singh" height="30" width="40" /></a>
 <a href="https://instagram.com/singhyuvi712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singhyuvi712" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/geeky_uv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/geeky_uv/" height="30" width="40" /></a>
 </p>
